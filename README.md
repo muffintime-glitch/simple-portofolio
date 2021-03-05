@@ -1,2 +1,1 @@
-# simple-portofolio
-progate
+# portfolio-website
